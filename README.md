@@ -14,7 +14,7 @@ To see how to create these patches go https://github.com/enriquesomolinos/pkgrip
 
 ## Requirements
  - Windows machine
- - PHP runtime: can be downloaded from https://windows.php.net/download#php-7.4
+ - .Net Framework
  - Fake PKG Tools: can be downloaded from  https://github.com/CyB1K/PS4-Fake-PKG-Tools-3.87. Gengp4 and orbis-pub-cmd files must be in the same folder of PkgRipper.
  - Your custom patches to apply: if you don't want to do this patches you can download from https://github.com/enriquesomolinos/pkgripper-patches and put them under the patches folder.
 
@@ -25,13 +25,8 @@ To see how to create these patches go https://github.com/enriquesomolinos/pkgrip
 
 ## Usage Example
 **Depending on the size of your files PkgRipper can take a lot of time!!**
-```
-$ php pkgRipper.php base.pkg
-```
-The program will ask you:
-- The file patch you can to apply
-- The specific path based on your version to apply
-- In case of updates, the program needs to know where is the base package to link with
+- If you want to patch a base fpkg file you can follow this video: https://youtu.be/-M4qvpxHKqc
+- If you want to patch an update fpkg file you can follow this video: https://youtu.be/boaHX81oSUU
 
 **In case you apply a patch to your base pkg you'll need to repackage the update to link with the new base.pkg**, this can be done with PkgRipper applying a fake patch (see transformers patch).
 
