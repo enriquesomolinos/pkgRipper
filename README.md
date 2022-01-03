@@ -3,7 +3,7 @@
 `PKGRipper` allows you to remove contents from your own backups of PS4 games (Pkg files).
 One important thing is PkgRipper use patches. This files contains the files that are not necesary in the pkg file and can be trimmer to zero bytes without problems  **SAVING HDD SPACE!! (F1 2020 drops more than 20GB)**  . 
 The program detects the patch file that can be applied directly and gives you the oportunity to select what patch you want to apply. Think that one patch file can contain several patches due to the updates that this game can have.
-For example: a game with a base version 01.00 and to updates 01.01, 01.02 can have 3 different patches.
+For example: a game with a base version 01.00 and to updates 01.01, 01.02 can have 4 different patches.
 - One for the pkg 01.00 for removing duplicated content from the version 01.01
 - One for the pkg 01.00 for removing duplicated content from the version 01.02
 - One for the update pkg 01.01 for removing duplicated content from the version 01.02
@@ -11,6 +11,7 @@ For example: a game with a base version 01.00 and to updates 01.01, 01.02 can ha
 
 For this reason the program will always asks the user to say wich is the update you have.
 To see how to create these patches go https://github.com/enriquesomolinos/pkgripper-patches
+
 
 ## Requirements
  - Windows machine

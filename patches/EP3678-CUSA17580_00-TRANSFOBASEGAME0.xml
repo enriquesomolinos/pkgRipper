@@ -1,0 +1,115 @@
+<?xml version="1.0"?>
+<pkgpatch>
+    <patchInfo description="Removes unnecesary content" title_id="CUSA17580" content_id="EP3678-CUSA17580_00-TRANSFOBASEGAME0">
+    </patchInfo>
+    <patches>
+        <patch description="Language Spanish Only" pkg_required_version="01.00" update_version_required="01.00">
+            <file path="Media/StreamingAssets/VOEnglish.bank"/>
+            <file path="Media/StreamingAssets/VOFrench.bank"/>
+            <file path="Media/StreamingAssets/VOGerman.bank"/>
+            <file path="Media/StreamingAssets/VOItalian.bank"/>
+        </patch>
+        <patch description="Language German Only" pkg_required_version="01.00" update_version_required="01.00">
+            <file path="Media/StreamingAssets/VOEnglish.bank"/>
+            <file path="Media/StreamingAssets/VOFrench.bank"/>
+            <file path="Media/StreamingAssets/VOSpanish.bank"/>
+            <file path="Media/StreamingAssets/VOItalian.bank"/>
+        </patch>
+        <patch description="Language English Only" pkg_required_version="01.00" update_version_required="01.00">
+            <file path="Media/StreamingAssets/VOGerman.bank"/>
+            <file path="Media/StreamingAssets/VOFrench.bank"/>
+            <file path="Media/StreamingAssets/VOSpanish.bank"/>
+            <file path="Media/StreamingAssets/VOItalian.bank"/>
+        </patch>
+        <patch description="Language French Only" pkg_required_version="01.00" update_version_required="01.00">
+            <file path="Media/StreamingAssets/VOGerman.bank"/>
+            <file path="Media/StreamingAssets/VOEnglish.bank"/>
+            <file path="Media/StreamingAssets/VOSpanish.bank"/>
+            <file path="Media/StreamingAssets/VOItalian.bank"/>
+        </patch>
+        <patch description="Language Italian Only" pkg_required_version="01.00" update_version_required="01.00">
+            <file path="Media/StreamingAssets/VOEnglish.bank"/>
+            <file path="Media/StreamingAssets/VOFrench.bank"/>
+            <file path="Media/StreamingAssets/VOSpanish.bank"/>
+            <file path="Media/StreamingAssets/VOGerman.bank"/>
+        </patch>
+        <patch description="Removes all duplicate content from update 01.01" pkg_required_version="01.00" update_version_required="01.01">
+            <file path="Media/SymbolMap"/>
+            <file path="Media/globalgamemanagers"/>
+            <file path="Media/globalgamemanagers.assets"/>
+            <file path="Media/level0"/>
+            <file path="Media/level1"/>
+            <file path="Media/level10"/>
+            <file path="Media/level11"/>
+            <file path="Media/level12"/>
+            <file path="Media/level13"/>
+            <file path="Media/level14"/>
+            <file path="Media/level15"/>
+            <file path="Media/level16"/>
+            <file path="Media/level17"/>
+            <file path="Media/level18"/>
+            <file path="Media/level19"/>
+            <file path="Media/level2"/>
+            <file path="Media/level20"/>
+            <file path="Media/level21"/>
+            <file path="Media/level22"/>
+            <file path="Media/level23"/>
+            <file path="Media/level24"/>
+            <file path="Media/level25"/>
+            <file path="Media/level26"/>
+            <file path="Media/level27"/>
+            <file path="Media/level28"/>
+            <file path="Media/level29"/>
+            <file path="Media/level3"/>
+            <file path="Media/level30"/>
+            <file path="Media/level31"/>
+            <file path="Media/level32"/>
+            <file path="Media/level4"/>
+            <file path="Media/level5"/>
+            <file path="Media/level6"/>
+            <file path="Media/level7"/>
+            <file path="Media/level8"/>
+            <file path="Media/level9"/>
+            <file path="Media/resources.assets"/>
+            <file path="Media/sharedassets0.assets"/>
+            <file path="Media/sharedassets0.assets.resS"/>
+            <file path="Media/sharedassets1.assets"/>
+            <file path="Media/sharedassets1.assets.resS"/>
+            <file path="Media/sharedassets10.assets"/>
+            <file path="Media/sharedassets11.assets"/>
+            <file path="Media/sharedassets12.assets"/>
+            <file path="Media/sharedassets13.assets"/>
+            <file path="Media/sharedassets14.assets"/>
+            <file path="Media/sharedassets15.assets"/>
+            <file path="Media/sharedassets16.assets"/>
+            <file path="Media/sharedassets17.assets"/>
+            <file path="Media/sharedassets18.assets"/>
+            <file path="Media/sharedassets19.assets"/>
+            <file path="Media/sharedassets2.assets"/>
+            <file path="Media/sharedassets20.assets"/>
+            <file path="Media/sharedassets21.assets"/>
+            <file path="Media/sharedassets22.assets"/>
+            <file path="Media/sharedassets23.assets"/>
+            <file path="Media/sharedassets24.assets"/>
+            <file path="Media/sharedassets25.assets"/>
+            <file path="Media/sharedassets26.assets"/>
+            <file path="Media/sharedassets27.assets"/>
+            <file path="Media/sharedassets28.assets"/>
+            <file path="Media/sharedassets29.assets"/>
+            <file path="Media/sharedassets3.assets"/>
+            <file path="Media/sharedassets30.assets"/>
+            <file path="Media/sharedassets31.assets"/>
+            <file path="Media/sharedassets32.assets"/>
+            <file path="Media/sharedassets4.assets"/>
+            <file path="Media/sharedassets5.assets"/>
+            <file path="Media/sharedassets6.assets"/>
+            <file path="Media/sharedassets7.assets"/>
+            <file path="Media/sharedassets8.assets"/>
+            <file path="Media/sharedassets9.assets"/>
+            <file path="Media/Metadata/global-metadata.dat"/>
+            <file path="Media/StreamingAssets/Master.bank"/>
+        </patch>
+        <patch description="fake patch to link the update with your base.pkg file" pkg_required_version="01.01" update_version_required="01.01"/>        
+    </patches>
+
+</pkgpatch>
