@@ -1,3 +1,5 @@
+[![Download count](https://img.shields.io/github/downloads/enriquesomolinos/pkgripper/total.svg)](https://github.com/enriquesomolinos/pkgripper/releases)
+
 # PKG Ripper
 
 `PKGRipper` allows you to remove contents from your own backups of PS4 games (Pkg files).
