@@ -14,6 +14,16 @@ For example: a game with a base version 01.00 and to updates 01.01, 01.02 can ha
 For this reason the program will always asks the user to say wich is the update you have.
 To see how to create these patches go https://github.com/enriquesomolinos/pkgripper-patches
 
+## Current patches
+| Game                                 	| Base pkg orig. size 	| Base pkg with pkgripper 	| Update pkg orig. size 	| Update pkg with pkgripper 	|
+|--------------------------------------	|---------------------	|-------------------------	|-----------------------	|---------------------------	|
+| EP1003-CUSA02092_00-DOOMEUROPEROWSKU 	| 45.9 GB             	| 28.5 GB                 	| 29 GB                 	| 24.8 GB                   	|
+| EP3678-CUSA17580_00-TRANSFOBASEGAME0 	| 3.2 GB              	| 2.1 GB                  	| 0.7 GB                	| 0.7 GB                    	|
+| EP4001-CUSA16283_00-F12020EMASTER000 	| 34.85 GB            	| 17.8 GB                 	| 18.5 GB               	| 15.5 GB                   	|
+| EP9000-CUSA12982_00-MEDIEVILHD000001 	| 20 GB               	| 8.0 GB                  	| 16 GB                 	| 16 GB                     	|
+| UP0777-CUSA27897_00-MSGNASCAR21XXXXX 	| 10.7 GB             	| 0.5                     	| 11.5 GB               	| 11.1                      	|
+|                                      	|                     	|                         	|                       	|                           	|
+
 
 ## Requirements
  - Windows machine
