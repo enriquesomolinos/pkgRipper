@@ -22,7 +22,8 @@ To see how to create these patches go https://github.com/enriquesomolinos/pkgrip
 | EP4001-CUSA16283_00-F12020EMASTER000 	| 34.85 GB            	| 17.8 GB                 	| 18.5 GB               	| 15.5 GB                   	|
 | EP9000-CUSA12982_00-MEDIEVILHD000001 	| 20 GB               	| 8.0 GB                  	| 16 GB                 	| 16 GB                     	|
 | UP0777-CUSA27897_00-MSGNASCAR21XXXXX 	| 10.7 GB             	| 0.5                     	| 11.5 GB               	| 11.1                      	|
-|                                      	|                     	|                         	|                       	|                           	|
+| EP2037-CUSA25234_00-DKALLIANCE01EURO 	| 19.7 GB              | 1.2 GB                   | 23.0 GB                | 23.0 GB                      	|
+| EP6665-CUSA27790_00-WRC10SIEE0000000 	| 25.3 GB              | 17.0 GB                  | 12.5 GB                | 11.4 GB                      	|
 
 
 ## Requirements
