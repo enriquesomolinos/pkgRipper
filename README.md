@@ -24,6 +24,10 @@ To see how to create these patches go https://github.com/enriquesomolinos/pkgrip
 | UP0777-CUSA27897_00-MSGNASCAR21XXXXX 	| 10.7 GB             	| 0.5                     	| 11.5 GB               	| 11.1                      	|
 | EP2037-CUSA25234_00-DKALLIANCE01EURO 	| 19.7 GB              | 1.2 GB                   | 23.0 GB                | 23.0 GB                      	|
 | EP6665-CUSA27790_00-WRC10SIEE0000000 	| 25.3 GB              | 17.0 GB                  | 12.5 GB                | 11.4 GB                      	|
+| EP1003-CUSA05486_00-SKYRIMHDFULLGAME 	| 31.1 GB               | 12.4 GB                   |  2.8 GB                  	|  2.8 GB                      	|
+| EP4291-CUSA18673_00-CRYSIS3REMASTERE 	| 10.0 GB               |  6.4 GB                   |  1.8 GB                  	|  6.4 GB                      	|
+| EP0001-CUSA15778_00-FARCRY6GAME00000 	| 34.8 GB               | 59.3 GB                   |  0.2 GB                  	| 46.6 GB                      	|
+| EP9000-CUSA01715_00-0000GODOFWAR3PS4 	| 40.0 GB               | 0.1 GB                    | 37.0 GB                  	|  0.1 GB                      	|
 
 
 ## Requirements
