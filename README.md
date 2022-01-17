@@ -52,8 +52,7 @@ To see how to create these patches go https://github.com/enriquesomolinos/pkgrip
 - **Use only with your own backups, we don't support piracy.**
 - Use at your own risk, test always the output PKG, we don't asure perfect results
 
-## Donations
-Donations are apreciated, click the sponsor button to it or donate via PayPal https://paypal.me/esomolinos?locale.x=es_ES
+
 
 
 
