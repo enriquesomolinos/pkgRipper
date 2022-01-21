@@ -14,6 +14,9 @@ For example: a game with a base version 01.00 and to updates 01.01, 01.02 can ha
 For this reason the program will always asks the user to say wich is the update you have.
 To see how to create these patches go https://github.com/enriquesomolinos/pkgripper-patches
 
+## How to use
+This video can help you:https://youtu.be/Mu0N7axnWpg
+
 ## Current patches
 | Game                                 	| Base pkg orig. size 	| Base pkg with pkgripper 	| Update pkg orig. size 	| Update pkg with pkgripper 	|
 |--------------------------------------	|---------------------	|-------------------------	|-----------------------	|---------------------------	|
