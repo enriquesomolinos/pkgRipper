@@ -15,7 +15,7 @@ For this reason the program will always asks the user to say wich is the update 
 To see how to create these patches go https://github.com/enriquesomolinos/pkgripper-patches
 
 ## How to use
-[PhR34x0r](https://github.com/PhR34x0r) has shared a great manual to know how to use pkgripper
+[PhR34x0r](https://github.com/PhR34x0r) has shared a great manual to know how to use pkgripper: https://github.com/enriquesomolinos/pkgRipper/raw/master/PKGRipper.Manual.pdf
 
 This video can help you:https://youtu.be/Mu0N7axnWpg
 
