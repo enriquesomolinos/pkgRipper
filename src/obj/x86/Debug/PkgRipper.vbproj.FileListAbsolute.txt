@@ -1,0 +1,24 @@
+G:\dev2\visual basic\PkgRipper4\PkgRipper\obj\x86\Debug\PkgRipper.Resources.resources
+G:\dev2\visual basic\PkgRipper4\PkgRipper\obj\x86\Debug\PkgRipper.vbproj.GenerateResource.Cache
+G:\dev2\visual basic\PkgRipper4\PkgRipper\bin\Debug\PkgRipper.exe
+G:\dev2\visual basic\PkgRipper4\PkgRipper\bin\Debug\PkgRipper.pdb
+G:\dev2\visual basic\PkgRipper4\PkgRipper\bin\Debug\PkgRipper.xml
+G:\dev2\visual basic\PkgRipper4\PkgRipper\obj\x86\Debug\PkgRipper.exe
+G:\dev2\visual basic\PkgRipper4\PkgRipper\obj\x86\Debug\PkgRipper.xml
+G:\dev2\visual basic\PkgRipper4\PkgRipper\obj\x86\Debug\PkgRipper.pdb
+G:\dev2\visual basic\PkgRipper4\PkgRipper\obj\x86\Debug\PkgRipper.Form1.resources
+C:\dev2\PkgRipper\obj\x86\Debug\PkgRipper.exe
+C:\dev2\PkgRipper\obj\x86\Debug\PkgRipper.xml
+C:\dev2\PkgRipper\obj\x86\Debug\PkgRipper.pdb
+C:\dev2\PkgRipper\bin\Debug\PkgRipper.exe
+C:\dev2\PkgRipper\bin\Debug\PkgRipper.pdb
+C:\dev2\PkgRipper\bin\Debug\PkgRipper.xml
+C:\dev2\PkgRipper\obj\x86\Debug\PkgRipper.Form1.resources
+C:\dev2\PkgRipper\obj\x86\Debug\PkgRipper.Resources.resources
+C:\dev2\PkgRipper\obj\x86\Debug\PkgRipper.vbproj.GenerateResource.Cache
+C:\dev2\PkgRipper\bin\Debug\DotNetZip.dll
+C:\dev2\PkgRipper\bin\Debug\DotNetZip.pdb
+C:\dev2\PkgRipper\bin\Debug\DotNetZip.xml
+C:\dev2\PkgRipper\obj\x86\Debug\PkgRipper.vbprojResolveAssemblyReference.cache
+C:\dev2\PkgRipper\obj\x86\Debug\PkgRipper.patches.resources
+C:\dev2\PkgRipper\obj\x86\Debug\PkgRipper.PatchCreator.resources

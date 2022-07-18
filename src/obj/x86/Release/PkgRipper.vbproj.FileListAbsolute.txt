@@ -1,0 +1,15 @@
+C:\dev2\PkgRipper\bin\Release\PkgRipper.exe
+C:\dev2\PkgRipper\bin\Release\PkgRipper.pdb
+C:\dev2\PkgRipper\bin\Release\PkgRipper.xml
+C:\dev2\PkgRipper\bin\Release\DotNetZip.dll
+C:\dev2\PkgRipper\bin\Release\DotNetZip.pdb
+C:\dev2\PkgRipper\bin\Release\DotNetZip.xml
+C:\dev2\PkgRipper\obj\x86\Release\PkgRipper.Form1.resources
+C:\dev2\PkgRipper\obj\x86\Release\PkgRipper.Resources.resources
+C:\dev2\PkgRipper\obj\x86\Release\PkgRipper.patches.resources
+C:\dev2\PkgRipper\obj\x86\Release\PkgRipper.vbproj.GenerateResource.Cache
+C:\dev2\PkgRipper\obj\x86\Release\PkgRipper.exe
+C:\dev2\PkgRipper\obj\x86\Release\PkgRipper.xml
+C:\dev2\PkgRipper\obj\x86\Release\PkgRipper.pdb
+C:\dev2\PkgRipper\obj\x86\Release\PkgRipper.PatchCreator.resources
+C:\dev2\PkgRipper\obj\x86\Release\PkgRipper.vbprojResolveAssemblyReference.cache
